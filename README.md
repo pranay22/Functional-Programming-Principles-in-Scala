@@ -6,7 +6,7 @@ Course offered by EPFL via Coursera
 
 Week 1:  
 Week 2:  
-Week 3:  
+Week 3: Object-Oriented Sets  
 Week 4:  
 Week 5:  
 Week 6:  
