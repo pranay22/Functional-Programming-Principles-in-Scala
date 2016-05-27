@@ -12,4 +12,4 @@ Week 5: Hauffman Coding
 Week 6: Anagrams  
 
 
-*Official Certifcate Link:* Would be added after Completing the Course.  
+*Official Certifcate Link:* https://www.coursera.org/account/accomplishments/records/RSYAZ3MC352K
