@@ -2,12 +2,12 @@
 Course offered by EPFL via Coursera
 
 
-*Contains all Homeworks:*  
+*Contains submitted codes for all Homeworks:*  
 
 Week 1: Recursion  
 Week 2: Functional Sets  
 Week 3: Object-Oriented Sets  
-Week 4:   
+Week 4: --  
 Week 5: Hauffman Coding  
 Week 6: Anagrams  
 
